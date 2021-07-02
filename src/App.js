@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,7 +7,6 @@ function App() {
       <header className="App-header">
         <h1>Finances Checklist</h1>
       </header>
-       
     </div>
   );
 }
